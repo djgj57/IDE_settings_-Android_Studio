@@ -1,0 +1,15 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/djgj5/OneDrive/cursoMinTic/ciclo_4/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/djgj5/OneDrive/cursoMinTic/ciclo_4/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/dart_Flutter/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/java_Android/Calculadora/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/java_Android/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/java_Android/TrianguloRectApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/java_Android/calculadora/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
